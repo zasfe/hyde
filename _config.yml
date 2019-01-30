@@ -6,20 +6,20 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Lee Sang-hun
+title:            Lee Sanghun
 tagline:          ''
 description:      ''
 url:              http://zasfe.github.io
 baseurl:          /hyde/
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Lee Sanghun'
+  url:            https://zasfe.com
 
-paginate:         5
+paginate:         1
 
 # Custom vars
 version:          2.1.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  repo:           https://github.com/zasfe/hyde

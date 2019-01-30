@@ -13,7 +13,22 @@
       {{ page.title }} &middot; {{ site.title }}
     {% endif %}
   </title>
+  <meta name="description" content="{{ site.description }}">
+  <meta name="author" content="{{ site.author.name }}">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ site.author.name }}">
+  <meta name="twitter:description" content="{{ site.description }}">
 
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{{ site.author.name }}">
+  <meta property="og:description" content="{{ site.description }}">
+  <meta property="og:image" content="https://ferrolho.github.io/images/cover.jpg">
+  
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}public/css/poole.css">
   <link rel="stylesheet" href="{{ site.baseurl }}public/css/syntax.css">

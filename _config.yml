@@ -7,7 +7,7 @@ permalink:        pretty
 
 # Setup
 title:            Lee Sanghun
-tagline:          ''
+tagline:          'On Lee Sanghun'
 description:      'Lead Systems Engineer at GABIA'
 url:              http://zasfe.github.io
 baseurl:          /hyde/
@@ -19,10 +19,9 @@ author:
 paginate:         1
 
 # Custom vars
-version:          2.1.0
-
 github:
   repo:           https://github.com/zasfe/hyde
 
 my:
   til:           https://zasfe.github.io/Today-I-learned/
+  linkedin:           https://zasfe.github.io/Today-I-learned/

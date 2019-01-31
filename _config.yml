@@ -10,7 +10,7 @@ title:            Lee Sanghun
 tagline:          'On Lee Sanghun'
 description:      'Lead Systems Engineer at GABIA'
 url:              http://zasfe.github.io
-baseurl:          /hyde/
+baseurl:          /hyde
 
 author:
   name:           'Lee Sanghun'
